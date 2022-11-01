@@ -1,0 +1,55 @@
+Pieridae Sonnet [Se]
+Pieridae Sonnet/2 [Se]
+Pieridae Sonnet/3 [Se]
+Pieridae Sonnet/4 [Se]
+Calico Goldfish [Ba]
+Calico Goldfish/2 [Ba]
+Calico Goldfish/B [Ba]
+Calico Goldfish/B2 [Ba]
+Regal Phoenix [Se]
+Regal Phoenix/2 [Se]
+Regal Phoenix/B [Se]
+Regal Phoenix/B2 [Se]
+Guerrier Militant [Ba]
+Guerrier Militant/2 [Ba]
+Guerrier Militant/3 [Ba]
+Guerrier Militant/4 [Ba]
+MTN: Idle - Fixing Hair 
+MTN: Landing - Dainty Descent
+MTN: Jump - Dainty Hop
+770: Crouch 4
+771: Sweet Potato
+772: I Give Up
+Regal Hair
+Goldfish Hair
+Pieridae Hair
+Cartoon Eyes/C
+Shaved Eyebrows
+Knockout Eyelashes
+Pieridae Paint
+Pieridae Paint/B
+Pieridae Eye Shadow
+Pieridae Eye Shadow/B
+Pieridae Stockings/B
+Pieridae Stockings
+Autumnal Thigh-Highs/B
+Autumnal Thigh-Highs
+Goldfish Ribbon
+Goldfish Earrings
+Goldfish Choker
+Regal Ear Cuffs
+Pieridae Hair Ornament
+Pieridae Wings
+Pieridae Necklace
+Dango Extension
+Mixed Braid Extension
+Tsumami Hair Ornament
+Blooming Ankle Gaiters
+Blooming Ankle Gaiters/B
+Belled Choker
+Blooming Waist Cape
+Blooming Waist Cape/B
+Modern Japanese Manicure
+Modern Japanese Pedicure
+Luminous Butterfly
+Luminous Butterfly/B

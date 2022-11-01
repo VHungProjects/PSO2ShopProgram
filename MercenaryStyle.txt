@@ -1,0 +1,72 @@
+Crimina Duellante [Ba]
+Crimina Duellante/2 [Ba]
+Crimina Duellante/B [Ba]
+Crimina Duellante/B2 [Ba]
+Lightie Savelge [Ba]
+Lightie Savelge/2 [Ba]
+Lightie Savelge/B [Ba]
+Lightie Savelge/B2 [Ba]
+Ethnos Kemone [Ba]
+Ethnos Kemone/2 [Ba]
+Ethnos Kemone/B [Ba]
+Ethnos Kemone/B2 [Ba]
+Rogue Zwaar [Se]
+Rogue Zwaar/2 [Se]
+Rogue Zwaar/3 [Se]
+Rogue Zwaar/4 [Se]
+Armure Coat [Se]
+Armure Coat/2 [Se]
+Armure Coat/3 [Se]
+Armure Coat/4 [Se]
+MTN: Move - Long Leap
+MTN: Jump - Air Pedal
+MTN: Landing - Whoa There
+776: Provoke 2
+777: Red String
+778: Red String 2
+Zwaar Hair
+Armure Hair
+Duellante Hair
+Savelge Hair
+Ethnos Hair
+Watery Eyes
+Watchful Eyebrows
+Slim Eyelashes
+Flushed Cheeks/B
+Blaze Makeup R
+Blaze Makeup R/B2
+Blaze Makeup R/B
+Blaze Makeup L
+Blaze Makeup L/B2
+Blaze Makeup L/B
+Savelge Makeup
+Duellante Paint
+Duellante Paint/B
+Blazing Paint T1
+Blazing Paint T1/B
+Blazing Paint T1/B2
+Blazing Paint T2
+Blazing Paint T2/B
+Blazing Paint T2/B2
+Scorpio Tattoo
+Scorpio Tattoo/B
+Zwaar Headgear
+Armure Earrings
+Armure Hairband 
+Savelge Goggles
+Ethnos Headgear
+Painful Wing R
+Painful Wing L
+Protruding Shoulder
+Protruding Shoulder/B
+Ghillie Cape
+Tactical Boots
+Masticater
+Clawed Gripper
+Animale Brazo 
+Werfer Commence
+Werfer Commence/B
+Werfer Cease
+Werfer Cease/B
+Mortar Annihilator
+Mortar Annihilator/B

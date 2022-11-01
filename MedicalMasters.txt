@@ -1,0 +1,53 @@
+Aescula Medice [Se]
+Aescula Medice/2 [Se]
+Aescula Medice/B [Se]
+Aescula Medice/B2 [Se]
+Salus Leggera [Se]
+Salus Leggera/2 [Se]
+Salus Leggera/B [Se]
+Salus Leggera/B2 [Se]
+Salus Pesante [Ba]
+Salus Pesante/2 [Ba]
+Salus Pesante/3 [Ba]
+Salus Pesante/4 [Ba]
+Aescula Medicis [Se]
+Aescula Medicis/3 [Se]
+Aescula Medicis/4 [Se]
+MTN: Idle - Innocent
+767: Wait a Minute
+768: Dance 63
+769: Captured
+Pesante Hair
+Leggera Hair
+Illustratica Eyes/E
+Slim Relaxed Eyebrows
+Voluminous Eyelashes
+Tired Eye Shadow
+Tired Eye Shadow/B
+Perfect Makeup
+Pesante Thigh-Highs
+Pesante Thigh-Highs/B
+Leggera Undergarments
+Leggera Undergarments/B
+Heart Pulse Tattoo/B
+Heart Pulse Tattoo
+Bandage Tights
+Savage Scar
+Savage Scar/B
+Pesante Beret
+Aescula Hat
+Leggera Hat
+Aescula Headgear
+Aescula Headgear/B
+Aescula Mask XN-95
+Aescula Mask XN-95/B
+Aescula Mask XP-100
+Leggera Mask
+Face Gauze
+Test-tube Belt
+Angular Wings
+Shoulder Roundel
+Shoulder Roundel/B
+Chest Reactor
+Chest Reactor/B
+Holographic HUD
