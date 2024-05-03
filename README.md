@@ -1,5 +1,11 @@
+
 # ShopProgram for pso2
+
 Utilizes pyTesseract ocr to read market prices and enters the numbers into a premade spreadsheet (unsure if Tesseract folder is needed in directory)\
 Note: Coordinates hard coded to screensize, specific tab set-up required, scratch_banners.txt need to manually create.\
+
 \
-Might be improved by training model specific for pso2 font, dynamic coordinates or use pyautogui image click instead, update a csv file instead of tabbing to google spreadsheet
+Very basic and discontinued
+- Use SQL and load values into SQL rather than alt tabbing to google sheets (For both names and prices) Gets rid of switching screens
+- Some web scrapper to get names of scratch items instead of manually getting them
+- Probably could use libraries more efficiently
